@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+.font {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  font-size: 24px;
+}
+
+.board-row {
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.status {
+  margin-bottom: 20px;
+  font-size: 20px;
+  text-align: center;
+}
